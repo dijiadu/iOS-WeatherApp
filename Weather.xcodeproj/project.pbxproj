@@ -13,6 +13,8 @@
 		225AD43D1B6A63FA0015D94D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 225AD43C1B6A63FA0015D94D /* Images.xcassets */; };
 		225AD4401B6A63FA0015D94D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 225AD43E1B6A63FA0015D94D /* LaunchScreen.xib */; };
 		225AD44C1B6A63FA0015D94D /* WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225AD44B1B6A63FA0015D94D /* WeatherTests.swift */; };
+		225AD4551B6AAC9B0015D94D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225AD4371B6A63FA0015D94D /* ViewController.swift */; };
+		225AD4561B6AACA00015D94D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 225AD4391B6A63FA0015D94D /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -202,6 +204,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				225AD4561B6AACA00015D94D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				225AD4551B6AAC9B0015D94D /* ViewController.swift in Sources */,
 				225AD44C1B6A63FA0015D94D /* WeatherTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
